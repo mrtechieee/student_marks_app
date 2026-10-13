@@ -3,7 +3,7 @@
 A Python CLI application for managing student academic records, built with **Rich** and backed by **SQLite** so data survives restarts.
 
 ## Live Demo (web version)
-A browser version with a landing page and the full app lives in `docs/index.html` and is published with GitHub Pages: https://mrtechieee.github.io/student_grade_system/
+A browser version with a landing page and the full app lives in `docs/index.html` and is published with GitHub Pages: https://mrtechieee.github.io/student_marks_app/
 
 > The web version saves records in the visitor's own browser. The Python CLI uses SQLite (`data/student_data.db`).
 
